@@ -37,7 +37,7 @@ export default class MessagePage extends Component {
                         <Text style={styles.text_title}>房源信息</Text>
 
 
-                        <Text style={styles.text_message}>您推荐的房源有新的消息</Text>
+                        <Text style={styles.text_message}>您的房源有新的消息</Text>
                     </View>
                     <Text style={styles.text_time}>下午3:25</Text>
 
@@ -55,7 +55,7 @@ export default class MessagePage extends Component {
                         <Text style={styles.text_title}>系统消息</Text>
 
 
-                        <Text style={styles.text_message}>您提交的经纪人认证审核未通过</Text>
+                        <Text style={styles.text_message}>您的提交审核已通过</Text>
                     </View>
                     <Text style={styles.text_time}>下午5:25</Text>
 
@@ -73,7 +73,7 @@ export default class MessagePage extends Component {
                         <Text style={styles.text_title}>订单消息</Text>
 
 
-                        <Text style={styles.text_message}>订单进度反馈中…</Text>
+                        <Text style={styles.text_message}>超时无人接单</Text>
                     </View>
                     <Text style={styles.text_time}>下午3:25</Text>
 
