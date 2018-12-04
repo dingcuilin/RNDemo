@@ -1,0 +1,23 @@
+{
+  "name": "rndemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.6.3",
+    "react-native": "^0.57.5",
+    "react-native-banner": "^0.1.0",
+    "react-native-swiper": "^1.5.13",
+    "react-native-tab-navigator": "^0.3.4"
+  },
+  "devDependencies": {
+    "@types/react-native": "^0.57.10"
+  }
+}
