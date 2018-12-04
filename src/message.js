@@ -13,7 +13,7 @@ import TitleBar from "./common/TitleBar";
 
 /***
  * 只能由属性(prop)或者状态(state)控制界面显示内容的变化，其它的变量绝对不允许控制显示内容的变化。
- * prop 一般用于组件的对外接口，state 是组件的内部状态
+ * prop 一般用于组件的对外接口，state 是组件的内部状态..
  */
 export default class MessagePage extends Component {
 
